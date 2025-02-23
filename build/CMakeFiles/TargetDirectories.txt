@@ -1,0 +1,4 @@
+D:/project/C++ project/karl/memory1/build/CMakeFiles/memory1.dir
+D:/project/C++ project/karl/memory1/build/CMakeFiles/testCorrectness.dir
+D:/project/C++ project/karl/memory1/build/CMakeFiles/ALL_BUILD.dir
+D:/project/C++ project/karl/memory1/build/CMakeFiles/ZERO_CHECK.dir
