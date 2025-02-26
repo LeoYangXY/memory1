@@ -49,6 +49,7 @@ namespace mP {
 				slot* temp = freeList_;
 				freeList_ = freeList_->next;
 				return temp;
+
 			}
 		}
 		else {
